@@ -3,6 +3,7 @@ Basic inventory managment app.
 
 Front-end
 -HTML, CSS, JS
+-currently on https://codepen.io/LoneWulf77/pen/PgBXLX
 
 Back-end
 -Java

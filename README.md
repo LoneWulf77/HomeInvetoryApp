@@ -7,7 +7,6 @@ Front-end
 
 Back-end
 -Java
--unsure what server system to use
 -upcitemdb.com for upc lookup API
 -https://developers.google.com/vision/android/barcodes-overview for app barcode scanner API
 -Local tomcat server via Springboot?

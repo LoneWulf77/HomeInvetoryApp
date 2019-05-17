@@ -1,6 +1,8 @@
 body{
   background: #404040; /* dark mode for development */
   margin-top: 90px;
+  font-size: 20px;
+  color: #909090;
 }
 
 .navbar {
@@ -22,6 +24,10 @@ h1 {
   color: #CCCCCC;
   float: right;
   margin-right: 30px;
+}
+
+.addUPC {
+  font-size: 20px;
 }
 
 input[type=number]::-webkit-inner-spin-button, 

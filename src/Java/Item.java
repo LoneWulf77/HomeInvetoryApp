@@ -37,7 +37,7 @@ public class Item {
     public static List<Item> retrieveAll() {
     }
 
-    public static Book retrieve() {}
+    public static Item retrieve() {}
 
     public static void update() {}
 
